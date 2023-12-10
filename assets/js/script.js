@@ -4,7 +4,6 @@ const tareasFijas = [
     { id:3, tareas: "Estudiar", completado: false },
 ]
 const inputTarea = document.querySelector("#ingresartarea")
-const listaDeIds = document.querySelector("#listadeids")
 const listaDeTareas = document.querySelector("#listadetareas")
 const btnAgregar = document.querySelector("#btnagregar")
 const total = document.querySelector("#totaltareas")
